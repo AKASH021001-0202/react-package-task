@@ -49,6 +49,7 @@ button.submit{
 h5.price-method {
   margin: 5px;
   color: #8f8d8d;
+  text-transform: uppercase !important;
 }
 h1.price {
   margin: 5px;
